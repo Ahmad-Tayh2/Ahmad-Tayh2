@@ -1,45 +1,69 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+!;Full-Stack+Software+Engineer;Backend+Specialist+%7C+System+Architecture;Payment+Integrations+%7C+Optimizations" />
-</h1>
-
----
-
-### 🚀 About Me
-I build **scalable backends**, **complex configuration engines**, and **high-performance systems** with strong focus on **security, integrations, and clean design**.
-
----
-
-### 🧠 Skills
-#### **⚙️ Backend**
-`Laravel` · `PHP` · `MySQL` · `Redis` · `REST` · `MVC` · `Repository Pattern` · `Cron Jobs`  
-`Rate Limiting` · `JWT` · `OTP` · `Payment Gateways` · `Webhooks`
-
-#### **🌐 Frontend**
-`React` · `TypeScript` · `Zustand` · `Shadcn/UI` · `Vite`
-
-#### **🛠 DevOps**
-`Docker` · `GitHub Actions` · CI/CD Pipelines · Auto Deploy Scripts
-
----
-
-### 📊 Analytics
+<!-- Banner (optional) -->
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=transparent" />
+  <img src="banner.png" width="100%" alt="Ahmad Banner"/>
+</p>
+
+# 👋 Hi, I'm Ahmad
+
+<table>
+<tr>
+<td>
+
+### 🚀 Full-Stack Developer  
+**React • TypeScript • Laravel • PHP • MySQL**  
+I build scalable applications with clean architecture and polished user experiences.
+
+</td>
+<td align="right">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:12px;" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, TypeScript, Zustand, Tailwind, Shadcn  
+**Backend:** PHP, Laravel, REST APIs, Authentication  
+**Database:** MySQL, Database Design, Schema Evolution, Migrations  
+**DevOps:** Docker, GitHub Actions  
+**Security:** Rate limiting, preventing common vulnerabilities  
+**Other:** System Design, Clean Architecture
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Smiluster** | Dental clinic management (appointments, stock, billing, dashboards) | React, Laravel, MySQL |
+| **Remittance System** | Multi-role app (Sender/Agent/Admin), wallets, currency conversion, recipients & transactions | React, Laravel, MySQL |
+| **Integrator Studio** | Dynamic integration builder with a forms engine, previews & publishing | React, Vite, Vitest |
+
+---
+
+## 📊 GitHub Analytics
+
+<p>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"
+  />
 </p>
 
 ---
 
-### 🏗️ Featured Projects
-- **💸 Multi-Gateway Payment System**  
-- **🌍 Remittance & Currency Engine**  
-- **📊 80% Faster Dashboard View Engine**  
-- **🔌 Integration Builder**  
+## 🔗 Connect with Me
+- **LinkedIn:** https://linkedin.com/in/YOUR_LINK  
+- **Portfolio:** https://YOUR_WEBSITE  
 
 ---
 
-### 🌐 Find Me
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"/></a>
+<p align="center">
+  🚀 *Always building, learning, and shipping new projects.*
 </p>
