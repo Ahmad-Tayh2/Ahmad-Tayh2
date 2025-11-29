@@ -32,9 +32,13 @@
 ## 📊 GitHub Overview
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Tayh2&show_icons=true&count_private=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Ahmad-Tayh2" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Tayh2" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Tayh2&layout=compact" />
 </p>
+
 
 ---
 
