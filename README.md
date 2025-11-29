@@ -8,7 +8,7 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,mysql,redis,docker,git,githubactions,vite" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,mysql,redis,docker,git,githubactions,vite,aws,go,node,docker" />
 </p>
 
 ---
@@ -29,19 +29,6 @@
 
 ---
 
-## 📊 GitHub Overview
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Tayh2&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Tayh2" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Tayh2&layout=compact" />
-</p>
-
-
----
-
 ## 🏆 Highlighted Work
 🔥 **Payment Integration Layer** — multi-gateway factory engine  
 🔥 **Remittance Platform** — currencies, commissions, roles, dashboards  
@@ -51,5 +38,5 @@
 ---
 
 ## 📬 Contact
-**LinkedIn:** YOUR-LINKEDIN  
-**Email:** YOUR-EMAIL
+**LinkedIn:** https://www.linkedin.com/in/ahmadtayh/
+**Email:** ahmad.tayh2@gmail.com
