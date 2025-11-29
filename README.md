@@ -1,51 +1,51 @@
-# 👋 Hi, I'm Ahmed — Full-Stack Software Engineer
+<h1 align="center">🚀 Ahmed — Full-Stack Software Engineer (Backend Focused)</h1>
 
-Backend-oriented Full-Stack Developer with strong experience in **architecting scalable APIs**, **building complex configuration systems**, and **integrating payment and external services**.  
-I focus on **clean architecture**, **performance optimization**, and **building reliable, maintainable systems**.
-
----
-
-## 🚀 Tech Focus
-- **Backend:** PHP, Laravel, MySQL, Redis, REST APIs, MVC, DI, Service + Repository Pattern  
-- **Frontend:** React, TypeScript, Zustand, Shadcn/UI  
-- **DevOps:** GitHub Actions, CI/CD, Docker, Cron Jobs  
-- **Architecture:** Clean Code, Design Patterns, Event-Driven flows, Observers, Queues  
-- **Specialties:** Payment Integrations, Webhooks, Caching Strategies, Performance Tuning
+<p align="center">
+  <em>Building scalable systems · integrating payment solutions · optimizing performance</em>
+</p>
 
 ---
 
-## 📌 What I Do
-- Design & build **scalable backend systems** with clean and modular architecture  
-- Create **dynamic, multi-configuration platforms** (currencies, commissions, countries…)  
-- Implement **secure auth systems** (RBAC, JWT, OTP, rate limiting)  
-- Integrate **multiple payment gateways** using Factory & Strategy patterns  
-- Build **optimized dashboards** (up to 80% faster) using views, caching, and indexed DB  
-- Automate deployments with **GitHub Actions** and custom CI/CD pipelines  
-- Create interactive **React dashboards** and reusable UI components
+## 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,mysql,redis,docker,git,githubactions,vite" />
+</p>
 
 ---
 
-## 🏗️ Featured Projects
-> Add project links later — I will help you write short descriptions for each.
+## 🧩 What I Do
+<div align="center">
 
-- **💸 Multi-Gateway Payment System** — modular factory-based design, webhooks, retries  
-- **📊 High-Performance Dashboard Engine** — caching + DB views, up to 80% faster  
-- **🌍 Remittance System** — complex currency logic, country configurations, roles  
-- **🔌 Integration Builder (No-Code)** — dynamic forms & previews (React + TS)
+| Area | Skills |
+|------|--------|
+| **Backend Engineering** | REST APIs, MVC, DI, Repository Pattern, Events/Observers |
+| **System Architecture** | Config engines, multi-country logic, currency flows |
+| **Integrations** | Payment gateways, Webhooks, OTP, email/SMS services |
+| **Performance** | Caching, DB views, indexing, optimization (80% faster dashboards) |
+| **DevOps** | Docker, Cron jobs, GitHub Actions CI/CD, auto-deploy |
+| **Frontend** | React, TS, Zustand, custom UI components |
 
----
-
-## 📈 Current Goals
-- Mastering **LLM integrations** into backend systems  
-- Deepening **advanced Laravel internals** & scalable architecture  
-- Growing into **Senior / Lead engineer responsibilities**
-
----
-
-## 📫 Connect With Me
-- **LinkedIn:** *add your link*  
-- **Portfolio:** *optional*
+</div>
 
 ---
 
-⭐ *If you like my work, feel free to star or fork my projects!*  
+## 📊 GitHub Overview
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🏆 Highlighted Work
+🔥 **Payment Integration Layer** — multi-gateway factory engine  
+🔥 **Remittance Platform** — currencies, commissions, roles, dashboards  
+🔥 **Integration Builder** — no-code dynamic form builder  
+🔥 **Optimization Layer** — custom views + caching (80% speed boost)  
+
+---
+
+## 📬 Contact
+**LinkedIn:** YOUR-LINKEDIN  
+**Email:** YOUR-EMAIL
